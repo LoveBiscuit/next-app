@@ -1,0 +1,15 @@
+.navbar {
+    background-color: orange;
+    padding: 15px;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.link a {
+    text-decoration: none;
+}
